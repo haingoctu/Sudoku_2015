@@ -1,4 +1,6 @@
-# Sudoku_2015 assignment written for Dr. Szumlanksi's CS 1 2015. 
+# Sudoku_2015
+By Hai Tu
+Dr. Szumlanksi CS 1 2015 @UCF
 Sudoku Solver
 
 Just a practice assignment to create a sudoku puzzle solver.
